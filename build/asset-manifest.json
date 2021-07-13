@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sistema-de-busca-de-repositorio-Git/static/css/main.d50d612a.chunk.css",
+    "main.js": "/Sistema-de-busca-de-repositorio-Git/static/js/main.3b4642bf.chunk.js",
+    "main.js.map": "/Sistema-de-busca-de-repositorio-Git/static/js/main.3b4642bf.chunk.js.map",
+    "runtime-main.js": "/Sistema-de-busca-de-repositorio-Git/static/js/runtime-main.9fc44635.js",
+    "runtime-main.js.map": "/Sistema-de-busca-de-repositorio-Git/static/js/runtime-main.9fc44635.js.map",
+    "static/js/2.5681887c.chunk.js": "/Sistema-de-busca-de-repositorio-Git/static/js/2.5681887c.chunk.js",
+    "static/js/2.5681887c.chunk.js.map": "/Sistema-de-busca-de-repositorio-Git/static/js/2.5681887c.chunk.js.map",
+    "static/js/3.b23bfaed.chunk.js": "/Sistema-de-busca-de-repositorio-Git/static/js/3.b23bfaed.chunk.js",
+    "static/js/3.b23bfaed.chunk.js.map": "/Sistema-de-busca-de-repositorio-Git/static/js/3.b23bfaed.chunk.js.map",
+    "index.html": "/Sistema-de-busca-de-repositorio-Git/index.html",
+    "static/css/main.d50d612a.chunk.css.map": "/Sistema-de-busca-de-repositorio-Git/static/css/main.d50d612a.chunk.css.map",
+    "static/js/2.5681887c.chunk.js.LICENSE.txt": "/Sistema-de-busca-de-repositorio-Git/static/js/2.5681887c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fc44635.js",
+    "static/js/2.5681887c.chunk.js",
+    "static/css/main.d50d612a.chunk.css",
+    "static/js/main.3b4642bf.chunk.js"
+  ]
+}
